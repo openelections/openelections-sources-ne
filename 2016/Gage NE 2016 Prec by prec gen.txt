@@ -1,0 +1,1667 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0001-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0001 Adams Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1,288
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     969                   242           727             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            75.23
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     670    70.53          164           506             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     214    22.53           58           156             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      43     4.53           10            33             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       8      .84            1             7             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     1.58            4            11             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     754    97.92          179           575             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      16     2.08            3            13             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     562    77.30          133           429             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     165    22.70           38           127             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     527    75.83          117           410             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     168    24.17           42           126             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     527    76.82          117           410             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     159    23.18           33           126             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     514    75.92          113           401             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     163    24.08           34           129             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     510    75.89          109           401             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     162    24.11           38           124             0
+
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     608    97.91          131           477             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      13     2.09            0            13             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0001-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0001 Adams Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     646    98.48          136           510             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      10     1.52            0            10             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     190    20.52           49           141             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     736    79.48          173           563             0
+
+
+LBB 1
+Vote for  1
+ Lawrence Gronewold  .  .  .  .  .  .  .  .     145    98.64           51            94             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2     1.36            0             2             0
+
+
+Nemaha NRD 1
+Vote for  1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      48   100.00            9            39             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     248    37.98           69           179             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     401    61.41           86           315             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4      .61            0             4             0
+
+
+Norris PP 3
+Vote for  1
+ Gary Kroese.  .  .  .  .  .  .  .  .  .  .     365    99.46           64           301             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .54            1             1             0
+
+
+ESU 5, Dist. 4
+Vote for  1
+ Roger E. Smidt.  .  .  .  .  .  .  .  .  .     106    99.07           29            77             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .93            0             1             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .      32    15.24           20            12             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .      28    13.33           15            13             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .      30    14.29           20            10             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .      22    10.48           11            11             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .      21    10.00           11            10             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .      26    12.38           16            10             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .      50    23.81           31            19             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .48            0             1             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0001-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0001 Adams Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .      19    26.76           16             3             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .      52    73.24           22            30             0
+
+
+Freeman School Bd.
+Vote for  3
+ Michael R. Klein .  .  .  .  .  .  .  .  .     487    45.51          103           384             0
+ Anthony Meints.  .  .  .  .  .  .  .  .  .     470    43.93          112           358             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .     113    10.56           18            95             0
+
+
+Norris School Bd Wd 1
+Vote for  1
+ James D. Kruger  .  .  .  .  .  .  .  .  .     147    98.00           27           120             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     2.00            0             3             0
+
+
+Norris School Bd Wd 3
+Vote for  1
+ Jim Devine .  .  .  .  .  .  .  .  .  .  .     149    99.33           28           121             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .67            0             1             0
+
+
+Norris School Bd Wd 5
+Vote for  1
+ Larry Grosshans  .  .  .  .  .  .  .  .  .     152    97.44           27           125             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4     2.56            0             4             0
+
+
+Adams Vlg Bd
+Vote for  2
+ Rodger D. Pella  .  .  .  .  .  .  .  .  .     163    43.35           27           136             0
+ Rodney Podtburg  .  .  .  .  .  .  .  .  .     201    53.46           36           165             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     3.19            4             8             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     305    32.45           78           227             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     635    67.55          154           481             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0002-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0002 Odell Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     701
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     529                   142           387             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            75.46
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     349    67.90           76           273             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     138    26.85           51            87             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      23     4.47            7            16             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       1      .19            1             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3      .58            2             1             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     410    97.16          101           309             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     2.84            5             7             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     329    78.15          102           227             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      92    21.85           14            78             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     299    76.86           84           215             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      90    23.14           19            71             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     301    77.78           85           216             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      86    22.22           18            68             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     295    77.02           84           211             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      88    22.98           19            69             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     290    76.52           84           206             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      89    23.48           19            70             0
+
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     346    98.02           92           254             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7     1.98            1             6             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0002-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0002 Odell Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     360    97.30           90           270             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      10     2.70            2             8             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     128    25.10           46            82             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     382    74.90           88           294             0
+
+
+LBB 2
+Vote for  1
+ James Damrow  .  .  .  .  .  .  .  .  .  .     405    99.26          107           298             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3      .74            0             3             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     225    50.90           61           164             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     217    49.10           62           155             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+ESU 5, Dist. 4
+Vote for  1
+ Roger E. Smidt.  .  .  .  .  .  .  .  .  .     367    98.66           97           270             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5     1.34            1             4             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .       0                     0             0             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .       2    66.67            2             0             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .       1    33.33            1             0             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .       2   100.00            2             0             0
+
+
+Diller-Odell School Bd.
+Vote for  3
+ Jill Scheele  .  .  .  .  .  .  .  .  .  .     256    29.12           67           189             0
+ Paul J. Kostal.  .  .  .  .  .  .  .  .  .     320    36.41           82           238             0
+ Gary Stohs .  .  .  .  .  .  .  .  .  .  .     291    33.11           73           218             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.37            1            11             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0002-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0002 Odell Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Southern School Bd.
+Vote for  3
+ Harlan J. Rickers.  .  .  .  .  .  .  .  .      47    25.82           14            33             0
+ Carol L. Pralle  .  .  .  .  .  .  .  .  .      45    24.73           19            26             0
+ Emily Shockley.  .  .  .  .  .  .  .  .  .      44    24.18           20            24             0
+ Jeffrey L. Garrels  .  .  .  .  .  .  .  .      45    24.73           13            32             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .55            0             1             0
+
+
+Odell Vlg Bd
+Vote for  2
+ Mark A. Billesbach  .  .  .  .  .  .  .  .     124    82.67           21           103             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      26    17.33            2            24             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     139    28.02           47            92             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     357    71.98           84           273             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0003-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0003 Filley/Virginia Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     723
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     562                   224           338             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            77.73
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     385    69.49          133           252             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     134    24.19           67            67             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      28     5.05           16            12             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       2      .36            2             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5      .90            1             4             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     449    98.25          169           280             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8     1.75            5             3             0
+
+
+Suprv. Dist. 6
+Vote for  1
+ John Hill (DEM)  .  .  .  .  .  .  .  .  .     276    98.92          128           148             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     1.08            0             3             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     317    73.38          113           204             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     115    26.62           45            70             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     310    75.43          112           198             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     101    24.57           40            61             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     311    76.04          107           204             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .      98    23.96           42            56             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     306    75.00          109           197             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     102    25.00           41            61             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     306    75.00          110           196             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     102    25.00           41            61             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0003-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0003 Filley/Virginia Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     362    98.64          133           229             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5     1.36            1             4             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     399    98.28          140           259             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7     1.72            2             5             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     105    19.30           41            64             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     439    80.70          175           264             0
+
+
+LBB 1
+Vote for  1
+ Lawrence Gronewold  .  .  .  .  .  .  .  .     459    98.92          176           283             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5     1.08            2             3             0
+
+
+Nemaha NRD 1
+Vote for  1
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     224    48.07           92           132             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     242    51.93           88           154             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+ESU 5, Dist. 4
+Vote for  1
+ Roger E. Smidt.  .  .  .  .  .  .  .  .  .     273    99.27           88           185             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .73            0             2             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .      63    14.48           39            24             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .      69    15.86           43            26             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .      69    15.86           44            25             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .      48    11.03           29            19             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .      49    11.26           30            19             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .      63    14.48           33            30             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .      74    17.01           45            29             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0003-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0003 Filley/Virginia Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .      32    26.23           23             9             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .      90    73.77           50            40             0
+
+
+Freeman School Bd.
+Vote for  3
+ Michael R. Klein .  .  .  .  .  .  .  .  .     170    46.07           55           115             0
+ Anthony Meints.  .  .  .  .  .  .  .  .  .     184    49.86           55           129             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     4.07            4            11             0
+
+
+Lewiston School Bd
+Vote for  3
+ Steve Janssen .  .  .  .  .  .  .  .  .  .      45    22.61           11            34             0
+ Spencer Anderson .  .  .  .  .  .  .  .  .      54    27.14           16            38             0
+ Larry Husa .  .  .  .  .  .  .  .  .  .  .      50    25.13           12            38             0
+ Terry Howell  .  .  .  .  .  .  .  .  .  .      49    24.62            9            40             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .50            0             1             0
+
+
+Southern School Bd.
+Vote for  3
+ Harlan J. Rickers.  .  .  .  .  .  .  .  .      57    25.11           28            29             0
+ Carol L. Pralle  .  .  .  .  .  .  .  .  .      63    27.75           36            27             0
+ Emily Shockley.  .  .  .  .  .  .  .  .  .      62    27.31           31            31             0
+ Jeffrey L. Garrels  .  .  .  .  .  .  .  .      45    19.82           23            22             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Filley Vlg Bd
+Vote for  3
+ Scott D. Nelson  .  .  .  .  .  .  .  .  .      53    30.81           14            39             0
+ Randy Schmidt .  .  .  .  .  .  .  .  .  .      60    34.88           15            45             0
+ Donald E. Alm .  .  .  .  .  .  .  .  .  .      54    31.40           17            37             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5     2.91            3             2             0
+
+
+Virginia Vlg Bd
+Vote for  2
+ Denise Spilker.  .  .  .  .  .  .  .  .  .      21    45.65            6            15             0
+ Linda K. Searcey .  .  .  .  .  .  .  .  .      25    54.35            6            19             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     166    30.51           68            98             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     378    69.49          146           232             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0004-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0004 NW Quad Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1,426
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1,122                   417           705             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            78.68
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     725    65.49          243           482             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     298    26.92          129           169             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      59     5.33           28            31             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       9      .81            7             2             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      16     1.45            7             9             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     869    97.75          309           560             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      20     2.25           10            10             0
+
+
+Suprv. Dist. 2
+Vote for  1
+ Matt Bauman (REP).  .  .  .  .  .  .  .  .     532    98.70          242           290             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7     1.30            4             3             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     624    71.89          225           399             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     244    28.11           89           155             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     588    70.84          207           381             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     242    29.16           89           153             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     589    71.92          208           381             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     230    28.08           85           145             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     580    71.43          207           373             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     232    28.57           83           149             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     576    71.02          204           372             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     235    28.98           87           148             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0004-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0004 NW Quad Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     728    98.64          255           473             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      10     1.36            3             7             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     753    98.30          263           490             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      13     1.70            6             7             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     232    21.54           83           149             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     845    78.46          305           540             0
+
+
+LBB 1
+Vote for  1
+ Lawrence Gronewold  .  .  .  .  .  .  .  .     856    99.30          314           542             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       6      .70            3             3             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     393    47.41          164           229             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     432    52.11          154           278             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4      .48            1             3             0
+
+
+ESU 5, Dist. 2
+Vote for  1
+ Debra K. Meyer.  .  .  .  .  .  .  .  .  .      90    98.90           47            43             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1     1.10            0             1             0
+
+
+ESU 6, Dist. 4
+Vote for  1
+ Larry K. Starr.  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     142    13.17           87            55             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     143    13.27           76            67             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     152    14.10           72            80             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     158    14.66           81            77             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     137    12.71           66            71             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     154    14.29           79            75             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     178    16.51           94            84             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      14     1.30           14             0             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0004-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0004 NW Quad Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .      83    24.48           34            49             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     256    75.52          140           116             0
+
+
+Crete School Bd.
+Vote for  3
+ Thad Sears .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Julie Kozisek .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Scott Piening .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ Justin Kuntz  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Norris School Bd Wd 1
+Vote for  1
+ James D. Kruger  .  .  .  .  .  .  .  .  .     275    99.28           63           212             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .72            1             1             0
+
+
+Norris School Bd Wd 3
+Vote for  1
+ Jim Devine .  .  .  .  .  .  .  .  .  .  .     270    99.63           62           208             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .37            0             1             0
+
+
+Norris School Bd Wd 5
+Vote for  1
+ Larry Grosshans  .  .  .  .  .  .  .  .  .     280    98.94           65           215             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     1.06            0             3             0
+
+
+Tri County School Bd
+Vote for  3
+ Douglas W. Stokebrand  .  .  .  .  .  .  .      56    17.83           33            23             0
+ Kirk Holtmeier.  .  .  .  .  .  .  .  .  .      42    13.38           26            16             0
+ Jeff Zimmerman.  .  .  .  .  .  .  .  .  .      48    15.29           22            26             0
+ Dustin Gronemeyer.  .  .  .  .  .  .  .  .      70    22.29           35            35             0
+ Wendi Strein  .  .  .  .  .  .  .  .  .  .      36    11.46           18            18             0
+ Annette R. Weise .  .  .  .  .  .  .  .  .      62    19.75           29            33             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Wilber-Clatonia School Bd
+Vote for  3
+ Chris Cerveny .  .  .  .  .  .  .  .  .  .     176    29.48           56           120             0
+ Russ Schuerman.  .  .  .  .  .  .  .  .  .     208    34.84           68           140             0
+ Rob Prokop .  .  .  .  .  .  .  .  .  .  .      61    10.22           22            39             0
+ John Williamson  .  .  .  .  .  .  .  .  .      64    10.72           22            42             0
+ Gary D. Wooten.  .  .  .  .  .  .  .  .  .      85    14.24           34            51             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3      .50            3             0             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0004-04
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0004 NW Quad Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Clatonia Vlg Bd
+Vote for  2
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      85   100.00           18            67             0
+
+
+Cortland Vlg Bd
+Vote for  2
+ Richard Douglass .  .  .  .  .  .  .  .  .     177    44.47           46           131             0
+ Mike E. Gates .  .  .  .  .  .  .  .  .  .      69    17.34           14            55             0
+ David Wieting .  .  .  .  .  .  .  .  .  .     147    36.93           39           108             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5     1.26            1             4             0
+
+
+Pickrell Vlg Bd
+Vote for  2
+ Kenneth R. Schuster .  .  .  .  .  .  .  .      75    51.02           43            32             0
+ Bob Kobes  .  .  .  .  .  .  .  .  .  .  .      58    39.46           29            29             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      14     9.52            8             6             0
+
+
+Village of Pickrell Keno Lottery
+Vote for  1
+ YES  .  .  .  .  .  .  .  .  .  .  .  .  .      73    73.00           41            32             0
+ NO.  .  .  .  .  .  .  .  .  .  .  .  .  .      27    27.00           17            10             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     357    32.60          139           218             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     738    67.40          263           475             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0005-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0005 Homestead Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .     987
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     780                   316           464             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            79.03
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     511    66.71          192           319             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     200    26.11           97           103             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      36     4.70           14            22             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       8     1.04            4             4             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      11     1.44            3             8             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     614    98.08          238           376             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.92            6             6             0
+
+
+Suprv. Dist. 2
+Vote for  1
+ Matt Bauman (REP).  .  .  .  .  .  .  .  .     397    99.25          178           219             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3      .75            1             2             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     460    76.54          173           287             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     141    23.46           48            93             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     431    75.75          159           272             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     138    24.25           52            86             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     424    75.18          157           267             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     140    24.82           51            89             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     428    76.16          158           270             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     134    23.84           48            86             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     421    74.91          157           264             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     141    25.09           51            90             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0005-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0005 Homestead Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     524    99.24          193           331             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4      .76            3             1             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     536    99.08          199           337             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5      .92            2             3             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     129    17.13           63            66             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     624    82.87          238           386             0
+
+
+LBB 1
+Vote for  1
+ Lawrence Gronewold  .  .  .  .  .  .  .  .     171    98.28           93            78             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     1.72            1             2             0
+
+
+LBB 2
+Vote for  1
+ James Damrow  .  .  .  .  .  .  .  .  .  .     422    99.76          139           283             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .24            1             0             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     310    48.82          112           198             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     325    51.18          137           188             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+ESU 5, Dist. 2
+Vote for  1
+ Debra K. Meyer.  .  .  .  .  .  .  .  .  .     147   100.00           60            87             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+ESU 5, Dist. 4
+Vote for  1
+ Roger E. Smidt.  .  .  .  .  .  .  .  .  .      42   100.00           19            23             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0005-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0005 Homestead Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     238    12.55           89           149             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     281    14.82          117           164             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     280    14.77           97           183             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     273    14.40          111           162             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     291    15.35          118           173             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     290    15.30          107           183             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     239    12.61           89           150             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4      .21            2             2             0
+
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     134    24.01           51            83             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     424    75.99          165           259             0
+
+
+Diller-Odell School Bd.
+Vote for  3
+ Jill Scheele  .  .  .  .  .  .  .  .  .  .       2    33.33            2             0             0
+ Paul J. Kostal.  .  .  .  .  .  .  .  .  .       2    33.33            2             0             0
+ Gary Stohs .  .  .  .  .  .  .  .  .  .  .       2    33.33            2             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Southern School Bd.
+Vote for  3
+ Harlan J. Rickers.  .  .  .  .  .  .  .  .      14    31.82            5             9             0
+ Carol L. Pralle  .  .  .  .  .  .  .  .  .      12    27.27            5             7             0
+ Emily Shockley.  .  .  .  .  .  .  .  .  .      10    22.73            5             5             0
+ Jeffrey L. Garrels  .  .  .  .  .  .  .  .       8    18.18            1             7             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Tri County School Bd
+Vote for  3
+ Douglas W. Stokebrand  .  .  .  .  .  .  .      75    15.86           33            42             0
+ Kirk Holtmeier.  .  .  .  .  .  .  .  .  .      92    19.45           40            52             0
+ Jeff Zimmerman.  .  .  .  .  .  .  .  .  .      63    13.32           26            37             0
+ Dustin Gronemeyer.  .  .  .  .  .  .  .  .      95    20.08           40            55             0
+ Wendi Strein  .  .  .  .  .  .  .  .  .  .      51    10.78           27            24             0
+ Annette R. Weise .  .  .  .  .  .  .  .  .      95    20.08           36            59             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .42            2             0             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     241    31.79          112           129             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     517    68.21          194           323             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0006-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0006 Wymore Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1,503
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     996                   277           719             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            66.27
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     625    64.63          155           470             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     282    29.16           93           189             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      41     4.24           14            27             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .      12     1.24            5             7             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7      .72            2             5             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     751    98.56          200           551             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      11     1.44            3             8             0
+
+
+Suprv. Dist. 6
+Vote for  1
+ John Hill (DEM)  .  .  .  .  .  .  .  .  .     755    98.05          199           556             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     1.95            3            12             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     552    73.80          145           407             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     196    26.20           49           147             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     518    72.04          140           378             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     201    27.96           49           152             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     530    74.02          140           390             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     186    25.98           46           140             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     520    73.45          135           385             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     188    26.55           48           140             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     529    74.61          136           393             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     180    25.39           46           134             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0006-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0006 Wymore Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     624    99.68          159           465             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .32            1             1             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     651    99.69          161           490             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .31            2             0             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     201    21.75           65           136             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     723    78.25          190           533             0
+
+
+LBB 1
+Vote for  1
+ Lawrence Gronewold  .  .  .  .  .  .  .  .     118   100.00           41            77             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+LBB 2
+Vote for  1
+ James Damrow  .  .  .  .  .  .  .  .  .  .     562    99.82          134           428             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .18            1             0             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     318    41.79           87           231             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     442    58.08          117           325             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .13            0             1             0
+
+
+ESU 5, Dist. 4
+Vote for  1
+ Roger E. Smidt.  .  .  .  .  .  .  .  .  .     581    99.66          152           429             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .34            0             2             0
+
+
+Diller-Odell School Bd.
+Vote for  3
+ Jill Scheele  .  .  .  .  .  .  .  .  .  .      22    37.29            6            16             0
+ Paul J. Kostal.  .  .  .  .  .  .  .  .  .      19    32.20            5            14             0
+ Gary Stohs .  .  .  .  .  .  .  .  .  .  .      16    27.12            4            12             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2     3.39            2             0             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0006-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0006 Wymore Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Lewiston School Bd
+Vote for  3
+ Steve Janssen .  .  .  .  .  .  .  .  .  .      41    24.26            9            32             0
+ Spencer Anderson .  .  .  .  .  .  .  .  .      49    28.99           16            33             0
+ Larry Husa .  .  .  .  .  .  .  .  .  .  .      45    26.63           14            31             0
+ Terry Howell  .  .  .  .  .  .  .  .  .  .      34    20.12           13            21             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Southern School Bd.
+Vote for  3
+ Harlan J. Rickers.  .  .  .  .  .  .  .  .     445    21.81          113           332             0
+ Carol L. Pralle  .  .  .  .  .  .  .  .  .     506    24.80          133           373             0
+ Emily Shockley.  .  .  .  .  .  .  .  .  .     639    31.32          173           466             0
+ Jeffrey L. Garrels  .  .  .  .  .  .  .  .     443    21.72          126           317             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7      .34            4             3             0
+
+
+Bl Spr Wd 1 City Council
+Vote for  1
+ Verona Neumann.  .  .  .  .  .  .  .  .  .      34    91.89            7            27             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     8.11            0             3             0
+
+
+Bl Spr Wd 2 City Council
+Vote for  1
+ Hugh Carmichael  .  .  .  .  .  .  .  .  .      43    91.49           17            26             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4     8.51            2             2             0
+
+
+Wym Wd 1 City Council
+Vote for  1
+ Daniel Hawkins.  .  .  .  .  .  .  .  .  .     101    43.16           18            83             0
+ Max Allen  .  .  .  .  .  .  .  .  .  .  .     130    55.56           29           101             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       3     1.28            3             0             0
+
+
+Wym Wd 2 City Council
+Vote for  1
+ Brady Meyer.  .  .  .  .  .  .  .  .  .  .      94    34.69           12            82             0
+ Susan E. Sapp .  .  .  .  .  .  .  .  .  .     176    64.94           52           124             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1      .37            0             1             0
+
+
+Barneston Vlg Bd
+Vote for  2
+ Keith Vorderstrasse .  .  .  .  .  .  .  .      18    21.43            6            12             0
+ Art Monfelt.  .  .  .  .  .  .  .  .  .  .      38    45.24           20            18             0
+ William J. Paul  .  .  .  .  .  .  .  .  .      24    28.57           15             9             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       4     4.76            0             4             0
+
+
+Liberty Vlg Bd
+Vote for  2
+ Darrell Thomas.  .  .  .  .  .  .  .  .  .      13    61.90            4             9             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8    38.10            2             6             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0006-04
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0006 Wymore Area
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     263    27.63           85           178             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     689    72.37          183           506             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0007-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0007 Beatrice Ward 1
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1,936
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1,378                   585           793             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            71.18
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     827    61.30          324           503             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     428    31.73          213           215             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      53     3.93           20            33             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .      17     1.26            5            12             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      24     1.78            9            15             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .   1,058    97.69          437           621             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      25     2.31           15            10             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     861    78.85          359           502             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     231    21.15          106           125             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     809    78.01          333           476             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     228    21.99          104           124             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     819    79.28          325           494             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     214    20.72          104           110             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     806    78.86          321           485             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     216    21.14          105           111             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     805    79.23          322           483             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     211    20.77          103           108             0
+
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     946    98.44          385           561             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     1.56            9             6             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0007-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0007 Beatrice Ward 1
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     978    98.79          405           573             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.21            7             5             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     391    29.76          184           207             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     923    70.24          368           555             0
+
+
+LBB 6
+Vote for  1
+ Steven A. Kelley .  .  .  .  .  .  .  .  .   1,048    99.24          447           601             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8      .76            3             5             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     592    51.57          278           314             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     554    48.26          222           332             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .17            1             1             0
+
+
+ESU 5, Dist. 6
+Vote for  1
+ Jeannine M. Murphy  .  .  .  .  .  .  .  .     376    99.47          148           228             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .53            1             1             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     581    12.29          245           336             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     675    14.27          311           364             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     701    14.82          333           368             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     727    15.37          313           414             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     755    15.97          317           438             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     713    15.08          303           410             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     560    11.84          235           325             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      17      .36            9             8             0
+
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     475    35.63          201           274             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     858    64.37          357           501             0
+
+
+Beatr Wd 1 City Council
+Vote for  1
+ Phil Cook  .  .  .  .  .  .  .  .  .  .  .     968    98.78          400           568             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.22            4             8             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0007-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0007 Beatrice Ward 1
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Airport Auth
+Vote for  2
+ Joe B. Hawkins.  .  .  .  .  .  .  .  .  .     795    49.56          346           449             0
+ Richard Moon  .  .  .  .  .  .  .  .  .  .     801    49.94          347           454             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8      .50            5             3             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     500    37.43          223           277             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     836    62.57          342           494             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0008-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0008 Beatrice Ward 2
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   2,087
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1,440                   631           809             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            69.00
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     852    60.51          339           513             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     453    32.17          231           222             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      77     5.47           35            42             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       9      .64            2             7             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      17     1.21           11             6             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .   1,159    97.48          474           685             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      30     2.52           20            10             0
+
+
+Suprv. Dist. 4
+Vote for  1
+ Dennis M. Byars (REP)  .  .  .  .  .  .  .   1,177    98.25          480           697             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      21     1.75           12             9             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     932    79.18          387           545             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     245    20.82          111           134             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     893    78.89          369           524             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     239    21.11          103           136             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     896    79.64          356           540             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     229    20.36          111           118             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     895    79.84          361           534             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     226    20.16          106           120             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     899    80.20          366           533             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     222    19.80          104           118             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0008-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0008 Beatrice Ward 2
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .   1,041    99.33          424           617             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       7      .67            5             2             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .   1,075    98.90          437           638             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.10            7             5             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     388    28.26          173           215             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     985    71.74          418           567             0
+
+
+LBB 5
+Vote for  1
+ Ronald Wiens  .  .  .  .  .  .  .  .  .  .      70    98.59           32            38             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       1     1.41            1             0             0
+
+
+LBB 6
+Vote for  1
+ Steven A. Kelley .  .  .  .  .  .  .  .  .   1,084    99.45          446           638             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       6      .55            2             4             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     520    42.31          206           314             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     704    57.28          322           382             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5      .41            3             2             0
+
+
+ESU 5, Dist. 6
+Vote for  1
+ Jeannine M. Murphy  .  .  .  .  .  .  .  .     682    99.13          286           396             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       6      .87            5             1             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     618    12.11          281           337             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     678    13.28          307           371             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     717    14.05          297           420             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     833    16.32          347           486             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     825    16.16          354           471             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     776    15.20          325           451             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     635    12.44          278           357             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      22      .43           15             7             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0008-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0008 Beatrice Ward 2
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     450    32.10          204           246             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     952    67.90          405           547             0
+
+
+Beatr Wd 2 City Council
+Vote for  1
+ Ted Fairbanks .  .  .  .  .  .  .  .  .  .   1,050    95.89          435           615             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      45     4.11           18            27             0
+
+
+Airport Auth
+Vote for  2
+ Joe B. Hawkins.  .  .  .  .  .  .  .  .  .     866    49.46          392           474             0
+ Richard Moon  .  .  .  .  .  .  .  .  .  .     871    49.74          384           487             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      14      .80            9             5             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     524    37.64          259           265             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     868    62.36          345           523             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0009-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0009 Beatrice Ward 3
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1,613
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .     967                   348           619             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            59.95
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     553    58.77          185           368             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     295    31.35          121           174             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      60     6.38           19            41             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .      19     2.02            6            13             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      14     1.49            4            10             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .     768    97.71          270           498             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      18     2.29            5            13             0
+
+
+Suprv. Dist. 2
+Vote for  1
+ Matt Bauman (REP).  .  .  .  .  .  .  .  .     301    97.41          121           180             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8     2.59            3             5             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     622    76.51          215           407             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     191    23.49           65           126             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     630    79.95          216           414             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     158    20.05           51           107             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     610    77.81          210           400             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     174    22.19           57           117             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     609    78.08          208           401             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     171    21.92           58           113             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     599    76.60          205           394             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     183    23.40           65           118             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0009-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0009 Beatrice Ward 3
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .     722    97.57          257           465             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      18     2.43            5            13             0
+
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .     737    98.01          261           476             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     1.99            3            12             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     223    24.08           93           130             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     703    75.92          230           473             0
+
+
+LBB 5
+Vote for  1
+ Ronald Wiens  .  .  .  .  .  .  .  .  .  .     698    98.87          255           443             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8     1.13            2             6             0
+
+
+LBB 6
+Vote for  1
+ Steven A. Kelley .  .  .  .  .  .  .  .  .      70   100.00           20            50             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     375    44.86          134           241             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     453    54.19          166           287             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8      .96            1             7             0
+
+
+ESU 5, Dist. 6
+Vote for  1
+ Jeannine M. Murphy  .  .  .  .  .  .  .  .      56   100.00           14            42             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     461    13.91          169           292             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     473    14.27          169           304             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     485    14.63          182           303             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     489    14.75          177           312             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     493    14.87          174           319             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     480    14.48          181           299             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     412    12.43          152           260             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      22      .66            5            17             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0009-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0009 Beatrice Ward 3
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     259    27.58           93           166             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     680    72.42          240           440             0
+
+
+Beatr Wd 3 City Council
+Vote for  1
+ Richard D. Kerr  .  .  .  .  .  .  .  .  .     439    51.41          143           296             0
+ Mike McLain.  .  .  .  .  .  .  .  .  .  .     410    48.01          158           252             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5      .59            0             5             0
+
+
+Airport Auth
+Vote for  2
+ Joe B. Hawkins.  .  .  .  .  .  .  .  .  .     558    51.48          204           354             0
+ Richard Moon  .  .  .  .  .  .  .  .  .  .     513    47.32          199           314             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      13     1.20            3            10             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     304    32.27          137           167             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     638    67.73          199           439             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0010-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0010 Beatrice Ward 4
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .   2,018
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1,461                   651           810             0
+ VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .            72.40
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .     836    58.30          331           505             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .     488    34.03          261           227             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .      69     4.81           25            44             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .      17     1.19            6            11             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      24     1.67           14            10             0
+
+
+Cong. Dist. 3
+Vote for  1
+ Adrian Smith (REP)  .  .  .  .  .  .  .  .   1,152    98.21          478           674             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      21     1.79           15             6             0
+
+
+Retain Michael G. Heavican
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1,002    82.40          440           562             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     214    17.60           87           127             0
+
+
+Retain Everett O. Inbody
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     916    79.51          388           528             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     236    20.49          105           131             0
+
+
+Retain Daniel R. Fridrich
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     931    80.96          394           537             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     219    19.04           98           121             0
+
+
+Retain John R. Hoffert
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     930    81.22          392           538             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     215    18.78           96           119             0
+
+
+Retain James R. Coe
+Vote for  1
+ Yes  .  .  .  .  .  .  .  .  .  .  .  .  .     914    80.32          381           533             0
+ No.  .  .  .  .  .  .  .  .  .  .  .  .  .     224    19.68          102           122             0
+
+
+SCC Dist 1
+Vote for  1
+ Lynn Schluckebier.  .  .  .  .  .  .  .  .   1,040    98.39          441           599             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      17     1.61            6            11             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0010-02
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0010 Beatrice Ward 4
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+SCC At Large
+Vote for  1
+ Steven Ottmann.  .  .  .  .  .  .  .  .  .   1,080    98.63          456           624             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      15     1.37            6             9             0
+
+
+SECC Bond
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     404    28.86          194           210             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     996    71.14          419           577             0
+
+
+LBB 5
+Vote for  1
+ Ronald Wiens  .  .  .  .  .  .  .  .  .  .   1,141    98.96          489           652             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      12     1.04            6             6             0
+
+
+Nebr. Pub. Pwr. 8
+Vote for  1
+ Jay Schulz .  .  .  .  .  .  .  .  .  .  .     619    48.74          281           338             0
+ Gary G. Thompson .  .  .  .  .  .  .  .  .     643    50.63          289           354             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       8      .63            3             5             0
+
+
+ESU 5, Dist. 6
+Vote for  1
+ Jeannine M. Murphy  .  .  .  .  .  .  .  .     558    99.11          267           291             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       5      .89            0             5             0
+
+
+Beatrice School Bd.
+Vote for  5
+ Monte Lofing  .  .  .  .  .  .  .  .  .  .     659    12.47          295           364             0
+ Jon Zimmerman .  .  .  .  .  .  .  .  .  .     760    14.39          354           406             0
+ Nancy J. Sedlacek.  .  .  .  .  .  .  .  .     791    14.97          340           451             0
+ Janet A. Byars.  .  .  .  .  .  .  .  .  .     829    15.69          360           469             0
+ Steve Winter  .  .  .  .  .  .  .  .  .  .     806    15.26          362           444             0
+ Lisa Pieper.  .  .  .  .  .  .  .  .  .  .     757    14.33          357           400             0
+ Preston Oltman.  .  .  .  .  .  .  .  .  .     662    12.53          286           376             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      19      .36           14             5             0
+
+
+School Bond Election
+Vote for  1
+ FOR  .  .  .  .  .  .  .  .  .  .  .  .  .     517    36.23          236           281             0
+ AGAINST .  .  .  .  .  .  .  .  .  .  .  .     910    63.77          395           515             0
+
+
+Beatr Wd 4 City Council
+Vote for  1
+ David PeDe Catlin.  .  .  .  .  .  .  .  .     686    50.81          295           391             0
+ Rick Mayfield .  .  .  .  .  .  .  .  .  .     662    49.04          311           351             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       2      .15            1             1             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0010-03
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0010 Beatrice Ward 4
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+
+Airport Auth
+Vote for  2
+ Joe B. Hawkins.  .  .  .  .  .  .  .  .  .     872    51.17          408           464             0
+ Richard Moon  .  .  .  .  .  .  .  .  .  .     823    48.30          369           454             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       9      .53            6             3             0
+
+
+Referendum No. 426
+Vote for  1
+ Retain  .  .  .  .  .  .  .  .  .  .  .  .     519    37.07          252           267             0
+ Repeal  .  .  .  .  .  .  .  .  .  .  .  .     881    62.93          369           512             0PREC REPORT-GROUP DETAIL                           Gage County, Nebraska                                   Report EL30A Page 0011-01
+                                                   General Election
+                                                   November 8, 2016
+Run Date:11/08/16 10:18 PM
+
+0011 New/Former Resident
+                                        TOTAL VOTES     %       Absentee  Election Day   Provisional
+ REGISTERED VOTERS - TOTAL .  .  .  .  .  .       0
+ BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .       0                     0             0             0
+
+
+President/Vice President
+Vote for  1
+ Trump/Pence (REP).  .  .  .  .  .  .  .  .       0                     0             0             0
+ Clinton/Kaine (DEM) .  .  .  .  .  .  .  .       0                     0             0             0
+ Johnson/Weld (LIB)  .  .  .  .  .  .  .  .       0                     0             0             0
+ Stein/Baraka (PET)  .  .  .  .  .  .  .  .       0                     0             0             0
+ WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .       0                     0             0             0
+E
